@@ -3,4 +3,3 @@ settings.py
 __pycache__
 media
 static
-db.sqlite3
